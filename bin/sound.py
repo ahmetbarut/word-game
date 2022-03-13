@@ -1,8 +1,20 @@
+import imp
 from os import mkdir
 import os.path as path
 import gtts
 from playsound import playsound
 import sys
+
+try: 
+    imp.find_module('gtts')
+except ImportError:
+    print('Please install gtts')
+    sys.exit(1)
+try:
+    imp.find_module('playsound')
+except ImportError:
+    print('Please install playsound')
+    sys.exit(1)
 
 word = sys.argv[1]
 
