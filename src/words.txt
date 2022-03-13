@@ -1,0 +1,753 @@
+ability: i. yetenek, kabiliyet
+able: s. yapabilen, gücü yeten
+about: zf. yaklaşık, hemen hemen ed. hakkında
+above: s. yukarıdaki, sözü geçen ed. üstünde
+accessible to: Ulaşılabilir, erişilebilir
+accident: i. kaza; rastlantı
+according to: göre
+account: f. açıklamak, hesap vermek i. banka hesabı; hesap verme
+achievment: başarı, elde etme, kazanma
+across: zf. karşıdan karşıya ed. karşısında
+active: s. aktif, çalışan, faal
+actor: i. aktör, oyuncu, erkek oyuncu, katılımcı
+actress: i. aktris, kadın oyuncu
+actual: s. gerçek, asıl, aktüel, güncel, şimdiki
+address: f. hitap etmek i. adres, konuşma
+adult: i. yetişkin
+advantage: i. avantaj, üstünlük
+advice: i. nasihat, öğüt
+afraid: s. korkan, korkmuş
+after: zf. sonra, daha sonra, ardından, bğ. dikten sonra
+afternoon: i. öğleden sonra
+afterwards: zf. sonra, ondan sonra
+again: zf. tekrar, yine, yeniden, bir daha
+against: ed. aykırı, aleyhinde, -e karşı
+age: f. yaşlandırmak i. yaş; asır; devir, çağ
+ago: s. önce, evvel
+agreement: i. anlaşma, sözleşme
+ahead: zf. ilerde, önde, önceden, ileri
+air: i. hava; gökyüzü; tavır
+alarm: f. alârm vermek, panik yapmak i. alârm
+alike: s. benzer, aynı, benzeyen
+alive: s. canlı, sağ, hayatta
+all: i. herkes, her şey, hepsi s. bütün, tüm
+all right: ünl. fena değil, peki, olur, tamam
+almost: zf. yaklaşık olarak, neredeyse, az daha
+alone: s. yalnız, tek başına
+along: zf. boyunca, süresince; ileriye
+already: zf. zaten, çoktan; şimdiden; bile
+also: zf. de, da, dahi, hem, hem de, ayrıca, üstelik, keza
+although: bğ. karşın, ise de, rağmen, olduğu halde, gerçi
+althought: rağmen
+altogether: zf. tamamen, bütün bütün, büsbütün, hepten
+always: zf. her zaman, daima
+among: ed. arasına, arasında, içinde
+amount: f. toplama ulaşmak i. miktar, tutar, toplam
+and: bğ. ve, ile, de
+angry: s. kızgın, kızmış
+animal: i. hayvan s. hayvanlarla ilgili
+another: s. başka, öbür, farklı zm. başka bir tane
+any: s. hiç, hiçbir zm. her ne, herhangi biri
+anybody: i. kimse, hiç kimse, herhangi biri, kim olsa
+anyone: zm. kimse, hiç kimse, herhangi biri, kim olsa
+anything: i. bir şey, hiçbir şey, herhangi bir şey, ne olsa, her şey
+anyway: zf. her halükârda, nasıl olsa, zaten, neyse
+anywhere: zf. herhangi bir yere, bir yere, hiçbir yerde
+apple: i. elma
+application: i. uygulama; başvuru
+appointment: i. randevu, buluşma, tayin
+april: [April] i. nisan
+area: i. alan, bölge, yüzölçümü, harekât bölgesi, bodrum girişi
+argument: i. tartışma, görüş, iddia
+arm: f. silâhlanmak; i. kol; dal, şube, silâh, cephane
+armchair: i. koltuk
+around: zf. etrafta, çevrede, bu civarda ed. aşağı yukarı
+arrival: i. geliş, varış, varma, gelme, gözükme, ortaya çıkma, gelen şey, mal girişi
+art: i. sanat, beceri s. sanatsal
+as: zf. kadar, olarak, gibi, iken i. gibi bğ. ki; madem; olduğu gibi, diği gibi, iken, irken; karşın, rağmen; mademki
+ass: i. kıç (argo), ahmak, eşek herif (Argo)
+assistant: i. asistan, yardımcı, tezgâhtar
+at: i. savaşçı [brit.], eyt ed. de, e
+attractive: s. çekici, alımlı
+august: i. Ağustos s. saygıdeğer, muhteşem
+available: s. müsait, mevcut, kullanışlı
+awake: f. uykudan kalkmak, farkına varmak s. uyanık
+aware: s. farkında, uyanık
+away: zf. uzakta, durmadan s. deplasmanda
+baby: i. bebek, piliç (kız) s. bebeksi
+back: f. geri geri gitmek i. sırt s. geri
+bad: i. kötü s. küfürlü
+badly: zf. fena halde, çok, ağır
+bag: f. yakalamak, çalmak i. çanta, torba
+balance: f. dengelemek, dalgalanmak i. denge
+balcony: i. balkon
+bald: s. kel, yalın, sıkıcı
+ball: f. yumak yapmak i. top, balo
+balloon: f. balonla uçmak, şişmek i. balon s. kabarık
+ban: f. yasaklamak, boykot etmek i. yasak
+banana: i. muz
+bank: f. parasal işlerini yapmak i. banka, kıyı
+bar: f. parmaklıkla çevirmek i. bar, baro ed. hariç
+basement: i. bodrum, bodrum katı, taban
+basket: i. pota, sepet
+bath: f. yıkanmak i. banyo
+beat: f. dövmek, çalmak (davul) i. darbe s. bitkin
+beautiful: s. güzel, hoş
+because: bğ. çünkü, diği için
+bed: f. yatırmak i. yatak, nehir yatağı
+beer: i. bira
+before: zf. önce, önde bğ. den önce ed. önünde
+behind: zf. arkada, geriye ed. ardındaki
+bell: f. böğürmek i. zil, çan
+below: zf. aşağı, altta ed. altında
+beside: ed. yanına, yanında, başka
+besides: zf. ayrıca, üstelik ed. dışında
+best: f. yenmek, alt etmek s. en iyi zf. en iyi şekilde
+better: f. iyileştirmek i. daha iyisi s. daha iyi, daha güzel
+between: zf. ortasında, arasına ed. arasında
+beyond: i. ahiret zf. ötesinde ed. ötesine, ayrıca
+bicycle: f. bisiklete binmek, bisikletle gezmek i. bisiklet
+big: zf. büyük, çok, fazla s. kocaman, iri
+bike: f. bisiklete binmek, motosiklete binmek i. bisiklet, motosiklet
+bill: f. fatura etmek i. hesap, kâğıt para
+bird: i. kuş
+birth: i. doğum, yavrulama; köken
+black: f. karartmak i. siyah, zenci s. uğursuz
+blind: f. kör etmek i. jaluzi, pusu s. kör
+block: f. engellemek, kapamak i. blok, kütük, engel
+blood: i. kan, huy, akrabalık
+blue: f. maviye boyamak i. mavi s. morarmış
+boat: f. kayıkla gezmek i. kayık, sandal
+body: i. vücut, gövde, beden, ceset
+boil: f. kaynatmak, haşlamak i. kızışma, son radde
+bomb: f. bombalamak i. bomba, fiyasko
+born: s. doğum, doğmuş
+boss: f. yönetmek i. patron, yönetici
+both: s. ikisi de, her ikisi de
+Bottle: f. şişelemek i. şişe, biberon
+bottom: f. temeline inmek i. dip, alt s. alttaki
+box: f. kutuya koymak i. kutu, yumruk
+boy: i. oğlan, erkek çocuk
+bra: [bra (brassiere) ] i. sutyen
+bread: f. pane etmek i. ekmek
+Breakfast: i. kahvaltı
+breath: i. nefes, soluk
+bridge: f. köprü yapmak i. köprü, briç
+bright: s. parlak, neşeli, berrak
+brother: ünl. vay be i. erkek kardeş, dost
+brown: f. karamak, kızarmak i. kahverengi
+budget: f. bütçe yapmak i. bütçe
+build: f. inşa etmek, kurmak i. yapı
+building: i. bina, inşa etme
+bus: f. otobüsle taşımak
+business: i. iş, mesele
+busy: s. meşgul, işlek
+but: i. itiraz zf. sadece bğ. fakat, ancak, oysa
+Butter: f. tereyağı sürmek i. tereyağı
+by: zf. yakın ed. yanında, yoluyla, kadar (süre) ök. yan
+cab: f. taksi ile gitmek i. taksi, kiralık araba
+Cable: f. kablo döşemek i. kablo, telgraf
+call: f. çağırmak, aramak (telefon) i. çağrı
+calm: f. sakinleştirmek i. sakinlik s. dingin
+camera: i. kamera, gizli
+Canal: i. kanal, suyolu
+cancer: i. kötü şey, kanser
+candle: i. mum, kandil
+capital: i. başkent, büyük harf, sermaye s. ana, büyük
+car: i. araba, otomobil
+card: f. kart açmak i. kart
+cash: f. paraya çevirmek i. nakit, ufak madeni para (çin)
+cat: i. kedi, dedikoducu kadın
+century: i. yüzyıl
+certainly: zf. kesinlikle, şüphesiz ünl. tabii
+chair: f. sandâlyeye oturtmak, makama geçirmek i. sandalye, makam ünl. başkan! (parlemento)
+champion: f. savunmak i. şampiyon s. şampiyon
+championship: i. şampiyonluk, üstünlük
+chance: f. riske girmek i. şans, risk s. tesadüfi
+character: i. harf, karakter, özellik
+cheap: s. ucuz, değersiz zf. ucuza
+cheese: i. peynir, meyve konservesi
+chicken: f. korkak davranmak i. tavuk, ödlek s. korkak
+child: i. çocuk, evlat
+christian: i. hristiyan, dini bütün kimse s. hristiyan, dürüst
+church: i. kilise, hristiyan toplumu s. kilise ile ilgili
+cigarette: i. sigara
+cinema: i. sinema
+city: i. şehir s. kent
+class: f. sınıflandırmak i. sınıf, mevki
+clear: f. açıklamak, aydınlatmak s. açık, berrak zf. açıkça
+clock: f. saat tutmak i. saat
+clothes: i. giysi
+cloud: f. karartmak, bulutlanmak i. bulut, küme, bulanıklık
+club: f. sopalamak i. sopa, kulüp
+coat: f. kaplamak, örtmek i. palto, ceket
+coffee: i. kahve, kahverengi
+coin: f. para basmak i. madeni para
+cold: i. soğuk, nezle, soğukalgınlığı s. soğuk, üşümüş
+collap: çökmek, yıkılmak
+colour: [colour (Brit.) ] f. boyamak i. renk
+comfortable: s. rahat, konforlu
+common: i. halka açık yer s. ortak, genel
+company: i. şirket, ortaklık, birlik, eşlik
+conversation: i. söyleşi, sohbet
+cool: f. serinletmek i. serinlik s. serin, soğukkanlı, harika
+corner: f. köşeye sıkıştırmak i. köşe s. köşede olan
+couple: f. eşleştirmek, birleştirmek i. çift, eş
+cousin: i. kuzen
+crazy: s. çılgın, deli
+cream: f. kaymak tutmak, krem sürmek i. kaymak, krema, krem s. kremalı, krem renkli
+crowd: f. toplanmak i. kalabalık
+culture: i. kültür, medeniyet
+cup: f. çanak gibi yapmak i. fincan, kupa, kâse
+customer: i. müşteri
+dad: i. baba, babacığım
+danger: i. tehlike, tehdit
+dangerous: s. tehlikeli, riskli
+dark: i. karanlık, koyu renk s. loş, kasvetli
+date: f. tarih atmak, buluşmak i. tarih, randevu
+daughter: i. kız, kız evlât
+day: i. gün, gündüz
+dead: i. ölü zaman s. ölü, çıkmaz zf. aşırı
+dear: i. sevilen kimse s. sevgili zf. samimi olarak
+death: i. ölüm, yıkım
+december: i. Aralık
+decision: i. karar, sonuç
+deep: i. derinlik; koyuluk s. derin, koyu
+degree: i. derece, rütbe
+delicious: s. lezzetli
+dentist: i. dişçi, diş doktoru
+detail: f. ayrıntılı anlatmak i. ayrıntı
+difference: i. fark, ayrım
+different: s. farklı, değişik, çeşitli
+difficult: s. zor
+dinner: i. akşam yemeği, ziyafet
+direct: f. yöneltmek, komuta etmek s. dolaysız
+director: i. yönetici, yönetmen
+dirty: f. kirletmek s. kirli, iğrenç
+disadvantage: i. dezavantaj, zarar
+disc: i. disk, daire, plâk (gramofon)
+doctor: f. doktorluk yapmak i. doktor
+dog: f. takip etmek i. köpek
+double: f. ikiye katlamak i. çift s. çifte
+down: f. yere indirmek i. tüy, bunalım s. aşağıya doğru
+each: s. her, her bir zm. her biri
+early: s. erken zf. evvel, önce
+easy: s. basit, kolay, zahmetsiz
+effect: f. etkisi olmak i. etki
+efficient: s. verimli, becerikli
+effort: i. çaba, gayret
+egg: f. teşvik etmek, kışkırtmak i. yumurta
+either.....or....: ya.....ya.....
+elder: i. yaşlı kimse s. yaşça büyük
+else: zf. başka
+emergency: i. tehlike, acil durum
+empty: f. boşaltmak i. boşalma s. boş
+enemy: i. düşman s. düşman, düşmana ait
+energy: i. enerji, kuvvet
+enough: s. yeterli zf. yeteri kadar ünl. yeter
+equal: f. eş değerde olmak i. emsal s. eşit, denk
+even: f. düzlemek s. düz, eşit zf. bile, hatta
+evening: i. akşam
+event: i. olay, durum
+ever: zf. daima, hiç
+every: s. her, her bir
+exactly: zf. tam olarak, kesin olarak ünl. kesinlikle, aynen
+example: i. örnek
+except: f. hariç tutmak ed. haricinde bğ. yoksa, başka
+expensive: s. pahalı
+explanation: i. açıklama
+extra: i. ilave s. ekstra, ek zf. ilaveten
+eye: f. gözetlemek i. bakış s. göz
+family: i. aile s. ailevi
+famous: s. ünlü
+far: s. uzak zf. uzağa, uzakta
+fashion: f. biçimlendirmek, uydurmak i. moda, üslup
+fast: f. oruç tutmak i. oruç, oruç süresi s. çabuk, hızla, hızlı
+fat: f. şişmanlatmak i. yağ s. şişman
+father: f. yaratmak, babası olmak i. allah, tanrı i. baba, papaz, peder, yaratıcı
+february: i. şubat
+few: i. az miktar s. az, kıt
+file: f. dosyalamak, kayda geçirmek i. dosya
+film: f. filme çekmek i. ince tabaka, film
+final: i. final s. son, sonuncu
+finally: zf. sonunda
+fine: f. berraklaştırmak i. para cezası s. güzel, hassas
+finger: f. parmak ile dokunmak, parmakla göstermek i. parmak
+first: i. başlangıç s. ilk zf. öncelikle
+fish: f. balığa çıkmak s. balık
+floor: f. döşemek, yere yıkmak i. zemin
+flower: f. çiçeklenmek i. çiçek
+food: i. yiyecek, gıda
+foot: f. ödemek, hesaplamak i. ayak, adım
+for: ed. için bğ. nedeniyle, çünkü
+foreign: s. yabancı, dış
+fork: f. çatalla kaldırmak i. çatal
+forward: f. sevketmek i. forvet, ileride yer alan kimse s. ileri
+fresh: s. taze, yeni i. serinlik zf. taptaze
+friday: i. cuma
+friend: i. arkadaş
+from: ed. den, den beri
+front: f. bakmak, dönmek i. ön taraf s. ön
+full: f. yıkayıp çektirmek i. doluluk s. dolu, tam
+fun: i. eğlence, şaka
+funny: s. komik, eğlendirici
+future: i. gelecek s. ilerideki
+game: f. kumar oynamak i. oyun s. cesur, hevesli
+garage: f. garaja çekmek i. garaj, tamirhane
+garden: f. bahçe işiyle uğraşmak i. bahçe, park s. bahçe ile ilgili
+garlic: i. sarımsak
+gas: f. gaz vermek, benzin almak i. gaz, benzin
+general: i. general, genel ilkeler s. genel, yaygın, baş
+	
+gentleman: i. centilmen, beyefendi
+get permission: izin almak
+girl: i. kız, kız arkadaş
+glass: f. cam gibi yapmak i. cam, bardak
+god: [God] i. Tanrı
+gold: i. altın
+good: i. hayır s. iyi, güzel, hayırlı ünl. peki
+goverment: hükumet, devlet
+government: i. hükümet, yönetim biçimi
+great: s. önemli, ulu ünl. harika ök. büyük
+green: f. yeşile boyamak i. yeşil, çimenlik s. taze, ham, yeni
+grey: f. kırlaşmak i. gri s. kır
+grocer: i. bakkal
+ground: f. yere sermek i. yer, sebep s. öğütülmüş
+group: f. gruplandırmak i. grup, küme
+guess: f. tahmin etmek i. tahmin
+hair: i. saç, tüy, kıl
+half: i. yarım s. yarı zf. yarı yarıya
+hall: i. hol, salon
+hand: f. uzatmak i. el, yardım, ustalık s. el
+handbag: i. el çantası
+handsome: s. yakışıklı
+happy: s. mutlu snk. uyuşuk
+hard: s. sert, çetin zf. zorla, sıkı
+hat: i. şapka
+head: f. başında olmak, yönetmek i. ana, baş, kafa s. baştaki
+headache: i. başağrısı, dert
+health: i. sağlık, sıhhat s. sağlık
+healthy: s. sağlıklı
+heart: i. kâlp, gönül
+hell: i. cehennem, felâket
+help: f. yardım etmek i. yardım, çare ünl. yardım edin
+here: zf. burada, buraya ünl. işte
+high: i. yüksek yer, lise s. yüksek, üst zf. yüksekte
+holiday: f. tatile çıkmak i. tatil, bayram s. bayramlık
+home: f. yuvasına dönmek i. ev, vatan s. eve ait
+honest: s. dürüst, açık sözlü ünl. gerçekten mi
+hospital: i. hastane
+hot: f. ısıtmak zf. kızgın s. sıcak, acı
+hotel: i. otel
+hour: i. saat, zaman
+house: f. barındırmak i. ev
+how: zf. nasıl, ne kadar i. yöntem
+however: zf. her nasılsa bğ. ama, oysa
+hungry: s. karnı aç
+husband: i. koca
+idea: i. fikir, niyet
+ideal: i. ideal, ülkü, amaç s. kusursuz
+if: i. şüphe, şart bğ. eğer, ise
+important: s. önemli
+in: s. içeride zf. içinde ed. de, da, içinde
+incredible: s. inanılmaz, şaşırtıcı, olağanüstü
+information: i. bilgi, haber, danışma
+inside: i. iç, iç taraf s. içteki zf. içeride, içeriye
+instead of: yerine
+intelligent: s. zeki, yetenekli
+interest: f. ilgisini çekmek i. ilgi, önem, faiz
+interesting: s. ilginç
+international: s. uluslararası
+into: ed. içine, içeriye
+it: zm. o, onu, ona
+january: i. ocak
+jealous: s. kıskanç
+job: f. iş yapmak i. Eyüp peygamber i. iş, meslek, görev
+joke: f. şaka yapmak i. fıkra, şaka
+july: i. temmuz
+june: i. Haziran
+just: s. adil, haklı zf. az önce, sade
+just in time: tam vaktinde, son anda, tam zamanında, kılpayı, ucu ucuna
+key: f. kilitlemek i. anahtar s. kilit, ana
+kind: i. çeşit, nitelik s. iyi, nazik
+kitchen: s. mutfak
+lack: f. eksik olmak i. eksiklik, yoksunluk
+lady: i. hanımefendi s. kadın
+language: i. dil, mesleki dil
+large: s. geniş, büyük
+late: s. geç
+laundry: i. çamaşır, çamaşırhane
+lawyer: i. avukat
+lazy: s. tembel
+leader: i. lider, önder, baş
+least: i. en az miktar s. en az zf. en az derece
+less: bğ. daha az. i. daha az şey s. daha az
+lesson: i. ders
+life: i. hayat, can, ömür
+light: f. aydınlatmak i. aydınlık, ışık s. açık, hafif
+line: f. çizmek i. çizgi, satır
+lip: i. dudak
+list: f. listelemek i. liste
+little: i. az miktar s. ufak zf. azıcık
+long: f. arzu etmek, özlemini çekmek i. uzun zaman s. uzun
+lot: f. bölüştürmek i. hisse, çok
+lovely: s. güzel, hoş, sevimli
+low: f. böğürmek i. böğürme s. alçak, düşük
+lower: f. küçültmek i. somurtma s. aşağı, alt
+luck: i. şans
+lucky: s. şanslı
+lunch: f. öğle yemeği yemek i. öğle yemeği
+machine: f. makine ile yapmak i. makine, mekanizma
+mad: s. azgın, deli
+	
+madam: i. madam, bayan
+mail: f. postalamak i. posta
+main: i. ana boru s. ana, esas, başlıca
+make-up: i. makyaj, süs, düzen
+man: f. adam yerleştirmek i. adam
+manager: i. idareci, müdür, yönetici
+many: i. birçoğu s. bir hayli zf. çok
+march: f. uygun adım yürümek i. mart, marş
+market: f. pazarlama i. pazar, piyasa
+match: f. eşlemek i. kibrit, eş
+may: f. mümkün olmak, ebilmek i. mayıs
+me: zm. bana, beni
+meat: i. et
+medicine: f. ilaç vermek i. ilaç, tıp
+meet: f. görüşme yapmak, karşılaşmak i. karşılaşma s. uygun
+meeting: i. toplantı, buluşma, miting
+member: i. üye
+men: [man] i. adam
+message: i. mesaj
+metre: i. metre, ölçü
+middle: i. orta s. ortadaki, aradaki
+midnight: i. gece yarısı
+milk: f. sağmak (inek) i. süt
+mine: f. kazmak i. maden, mayın
+minute: f. tutanak tutmak, saat tutmak i. dakika s. ufacık
+mistake: f. yanlış anlamak i. yanlış, hata
+model: f. kalıbını çıkarmak, biçimlendirmek i. numune, kalıp, manken s. örnek olan
+monday: i. pazartesi
+money: i. para
+month: i. ay
+moon: f. dalgın dalgın dolaşmak i. ay [astr.] i. ay
+more: i. çok
+morning: i. sabah s. sabah
+most: i. en fazla miktar, çoğu s. en çok snk. en
+mother: f. annelik etmek i. anne
+motor: f. otomobille gitmek i. motor, otomobil s. hareket ettirici
+mountain: i. dağ
+much: i. çok şey s. çok zf. çokça, pek, fazlaca
+music: i. müzik
+must: f. meli i. malı s. kızmış (fil)
+my: ünl. hayret, vay be zm. benim
+name: f. isim vermek i. isim, ün
+natural: s. doğal
+nature: i. doğa, huy
+necessary: i. gereken şey s. gerekli
+neighbour: f. komşu olmak s. komşu, bitişik
+nervous: s. sinirli
+never: zf. asla ünl. asla
+new: s. yeni
+news: i. haber
+newspaper: i. gazete
+next: s. sonraki i. bir dahaki zf. daha sonra
+nice: s. hoş, güzel
+night: i. gece
+no: i. hayır s. hiç art. yok
+nobody: i. önemsiz şahsiyet, hiç kimse
+none: zm. hiç
+normal: i. normal s. olağan, ortalama
+not: art. değil, yok
+nothing: zf. hiç i. hiçbir şey ünl. hiç
+november: i. Kasım
+now: i. şimdi zf. hemen bğ. mademki
+nowhere: zf. hiçbir yerde i. hiçbir yer
+number: f. saymak, numaralamak i. rakam, sayı, numara
+obvious: s. açık, besbelli
+october: i. Ekim
+of: ed. nin, ın, den, li, yüzünden
+off: s. uzak, devre dışı zf. kapalı ed. den, dan, dışında, haricinde
+office: i. büro s. büro
+official: i. memur s. resmi, devlet
+Official meeting: Resmi toplantı
+often: zf. sık sık
+old: s. bayat, eski, yaşlı i. eski zamanlar
+on: s. olmakta olan zf. sürekli olarak ed. üstünde, üzerinde
+once: zf. bir zamanlar i. bir kere bğ. olur olmaz
+one: i. bir tane, tek s. tek
+only: s. tek zf. sadece bğ. yalnız
+operation: i. ameliyat, işleyiş
+opportunity: i. fırsat
+opposite: s. zıt zf. karşı ed. karşısında
+other: i. diğer s. başka zf. bundan başka
+otherwise: bğ. yoksa zf. bunun dışında, başka
+our: zm. bizim
+out: f. dışarı çıkarmak i. çıkış s. dış
+outside: i. dışarı s. dış zf. dışarıya, açık havada
+over: s. sona ermiş zf. fazla, aşırı, öte ed. üstünde
+owner: i. mal sahibi
+packet: f. paketlemek i. paket, bohça
+page: f. çağrı cihazını aramak i. sayfa
+pain: f. canını yakmak i. ağrı, acı
+paper: f. kâğıt kaplamak i. kâğıt, kâğıt para, evrak s. önemsiz
+paradise: i. cennet
+parent: s. ana, temel i. ebeveyn
+park: f. parketmek i. park, otopark
+part: f. ayırmak i. kısım ök. yarı, kısmen
+part-time: s. yarım günlük z. yarım gün
+partner: f. ortak etmek i. ortak, eş
+party: i. parti, grup
+password: i. parola, şifre
+past: i. geçmiş s. eski zf. geçecek şekilde
+patient: i. hasta s. hoşgörülü, sabırlı
+payment: i. ödeme, masraf
+pen: f. kaleme almak i. kümes, tükenmez kalem
+people: f. insan yerleştirmek i. halk, insanlar
+pepper: i. biber, biber serpmek
+perfect: f. mükemmelleştirmek i. tamamlanmış geçmiş zamanlı fiil s. mükemmel, kusursuz
+performance: i. performans, gösteri
+permission: i. izin, ruhsat
+person: i. kişi
+phone: f. telefon etmek i. telefon
+photo: f. fotoğraflamak i. fotoğraf, resim ök. foto
+picture: f. resmetmek, çizmek i. resim s. film
+piece: f. parça eklemek i. parça
+pink: f. kenarını şekilli kesmek i. pembe, zirve s. solcu (ılımlı)
+place: f. yerleştirmek i. yer, mekân
+plane: f. düzlemek i. uçak, düzlem s. düz
+plant: f. ekmek i. bitki, tesis
+plate: f. kaplamak (metalle) i. tabak, plaka
+player: i. oyuncu, çalan kimse (müzik aleti için)
+pleasure: i. zevk, sevinç, keyif
+plus: i. artı s. pozitif ed. ilaveten
+pocket: f. cebe indirmek i. cep s. minyatür
+police: f. güvenliği sağlamak i. polis s. polis
+polite: s. kibar
+politics: i. siyaset
+pool: f. birleştirmek i. havuz, fon, bilardo (amerikan)
+poor: s. zavallı, fakir i. sefil
+position: f. yerleştirmek i. konum, pozisyon
+positive: i. pozitif s. olumlu, artı
+possibility: i. olasılık
+possible: i. rekor [spor.] s. olası
+power: f. güç sağlamak i. güç, enerji
+powerful: s. güçlü, nüfuzlu
+practice: f. alıştırma yapmak i. idman, uygulama
+pregnant: s. hamile
+preparation: i. hazırlık
+president: i. başkan
+pressure: f. basınç uygulamak i. basınç
+pretty: s. sevimli zf. oldukça
+previous: s. önceki, eski
+price: f. fiyatını belirlemek i. fiyat
+private: i. er s. özel
+problem: i. mesele s. sorunlu
+product: i. ürün, sonuç
+production: i. üretim
+profession: i. meslek
+profit: f. yararı olmak i. kâr, fayda
+programme: f. programlamak [programme (Brit.) ] i. program, yapım
+purpose: f. amaçlamak i. amaç, niyet
+quality: i. nitelik, özellik
+quarter: f. dörde bölmek i. çeyrek, yirmibeş sent, köşe
+quick: i. canlı s. çabuk, hızlı zf. çabucak
+quiet: f. susturmak, yatıştırmak i. sessizlik, huzur s. sessiz
+quite: zf. oldukça
+radio: f. radyodan yayınlamak, telsizden yayınlamak i. radyo, telsiz
+ready: zf. hazır i. nakit s. hazır
+really: ünl. gerçekten mi zf. gerçekten
+reason: f. sonuca varmak, düşünüp taşınmak i. sebep, akıl
+reasonable: s. mantıklı
+red: ök. kızarık i. kırmızı, kızıl s. kızgın
+regular: i. müdavim s. sıradan, düzenli
+relation: i. bağıntı, alâka
+relationship: i. ilişki, yakınlık
+relative: i. akraba s. göreceli
+responsible: s. sorumlu
+restaurant: i. restoran, lokanta
+result: f. sonucu olmak i. sonuç
+rich: s. zengin, bereketli
+ridiculous: s. gülünç, anlamsız
+right: i. gerçek, hak, sağ
+road: i. yol, cadde
+room: f. oturmak i. oda, boş yer
+rude: s. kaba, nezaketsiz
+rule: f. hükmetmek i. kural, talimat
+sad: s. üzgün, acıklı
+safe: i. kasa s. emin, güvenli
+salad: i. salata
+sale: i. satış, ucuzluk
+salt: f. tuzlamak, salamura yapmak i. tuz s. tuzlu
+same: s. aynı
+sandwich: f. arasına sıkıştırmak, sandviç yapmak i. sandviç
+saturday: i. cumartesi
+school: f. okula göndermek i. okul
+sea: i. deniz s. denizle ilgili
+season: f. çeşni katmak i. sezon, mevsim
+seat: f. oturtmak i. oturak
+second: f. desteklemek i. ikinci, saniye s. ikinci dereceli
+secret: i. bilinmeyen, sır s. gizli
+secretary: i. sekreter, yazman
+september: i. Eylül
+serious: s. ciddi, önemli
+service: f. hizmet vermek i. hizmet, görev, ayin s. hizmet
+several: i. birkaç s. birkaç, farklı
+shirt: i. gömlek, bluz
+shoe: f. ayakkabı giydirmek i. ayakkabı, nal
+short: i. kısa metrajlı film s. kısa, az, özet zf. eksik
+shower: f. yağdırmak i. duş, sağanak
+sick: f. saldırtmak s. hasta, midesi bulanmış
+side: f. taraf tutmak i. yan, taraf s. yandaki
+silent: s. sessiz, suskun
+since: zf. beri ed. den beri bğ. den beri, mademki
+single: i. tek, bekâr s. yalnız, biricik
+sir: f. sör diye hitap ermek i. beyefendi, bayım
+sister: i. kızkardeş, rahibe
+size: f. büyüklüğüne göre ayırmak i. boyut, beden snk. ölçülü
+sleepy: s. uykulu, uyuşuk
+slow: f. yavaşlamak s. yavaş, ağır
+small: i. dar kısım s. küçük, mini
+so: zf. o kadar, pek, demek ki bğ. yani ünl. öyle mi
+some: zm. bazı s. biraz zf. civarında
+somebody: i. birisi
+someone: zm. biri, birisi
+sometimes: zf. bazen
+somewhere: zf. bir yerde
+son: ünl. oğlum i. erkek çocuk ök. oğlu
+song: i. şarkı, türkü
+soon: zf. yakında, erken
+sorry: ünl. afedersin, üzgünüm s. üzgün, üzüntülü
+sound: f. ses vermek i. ses, melodi zf. mışıl mışıl
+special: i. spesiyalite s. özel
+spoon: f. kaşıkla almak i. kaşık, kepçe
+sport: f. spor yapmak i. spor, eğlence, oyun
+station: f. tayin etmek i. istasyon, durak
+still: f. sakinleştirmek i. sükunet bğ. yine de
+straight: i. düz çizgi s. düz, dik zf. doğru
+strange: s. acayip, yabancı
+street: i. sokak, cadde
+strong: s. güçlü, sağlam zf. kuvvetle
+student: s. öğrenci i. öğrenci, stajyer
+stuff: f. doldurmak i. şey, eşya
+stupid: i. aptal s. aptalca
+such: zm. bu gibi s. öyle, çok zf. böylesine
+sudden: s. ani, beklenmedik
+sugar: f. şeker katmak i. şeker, iltifat
+summer: f. yazı geçirmek i. yaz s. yazla ilgili
+sun: f. güneşlenmek i. güneş i. güneş ışığı
+sunday: i. pazar günü s. pazarları yapılan
+super: i. birici sınıf mal, fazlalık s. süper ök. ek
+sure: ünl. kesinlikle s. emin, kesin zf. şüphesiz
+surname: f. soyadı vermek i. soyadı
+sweet: ünl. şekerim i. tatlı s. şekerli, sevimli
+table: f. masaya koymak i. masa, çizelge
+taxi: f. taksi ile gitmek i. taksi
+tea: i. çay
+teacher: i. öğretmen
+team: f. takım kurmak i. takım, ekip
+telephone: f. telefon etmek i. telefon
+television: i. televizyon
+terrible: s. korkunç, çok kötü
+than: bğ. den, dan, göre
+that: zm. şu s. öteki zf. bu kadar
+their: zm. onların
+them: zm. onları, onlara, onlar
+then: s. o zamanki zf. o zaman, öyleyse, zira
+there: zm. şuradaki zf. şurada ünl. işte
+therefore: bğ. bu nedenle zf. bunun için
+these: zm. bunlar
+they: zm. onlar
+thief: i. hırsız
+thing: i. şey, eşya
+thirsty: s. susamış, kurak, istekli
+this: zm. bu zf. böyle
+those: zm. şunlar
+though: bğ. gerçi, olduğu halde zf. yine de
+through: zf. bir uçtan bir uca ed. sayesinde s. kesintisiz
+thursday: i. perşembe
+ticket: f. etiketlemek i. bilet, fiş, etiket
+tidy: i. ıvır zıvır kutusu s. düzenli
+time: f. zamanlama yapmak i. zaman, vade
+tissue: i. doku, ince kumaş
+to: ed. e, ye, ya, e doğru, göre, karşı
+today: zf. bugün, günümüzde
+together: s. peşinden ayrılmayan zf. beraber
+tomorrow: zf. yarın
+tonight: zf. bu gece
+too: zf. de, dahi, çok
+top: f. üstünü kapamak i. üst, tepe s. en yüksek, en iyi
+total: f. toplamını bulmak i. toplam, tutar s. bütün, toptan
+towards: ed. e doğru, e karşı
+town: i. kent, ilçe, kasaba s. kent
+traffic: f. değiş tokuş etmek i. trafik, gidiş geliş
+tree: f. ağaca çıkarmak i. ağaç, mil
+trouble: f. rahatsız etmek i. sıkıntı, üzüntü
+true: s. esaslı, gerçek zf. doğru
+truth: i. doğruluk, gerçeklik
+tuesday: i. salı
+twice: zf. iki kere
+ugly: s. çirkin, iğrenç
+under: s. alt zf. altına ed. altında
+unless: ed. den başka bğ. olmadıkça
+until: ed. değin bğ. inceye kadar
+up: ed. yukarı i. artış ünl. kalk, yaşasın, yukarı
+upstairs: i. üst kat zf. yukarıda
+urgent: s. acil, kaçınılmaz
+us: [US (United States) ] i. amerika birleşik devletleri, bize, bizi
+useful: s. yararlı, kullanışlı, işe yarar
+usual: s. olağan, her zamanki
+vain: s. boş, faydasız
+vegetable: i. sebze, bitki s. bitkisel, sebze
+very: s. çok zf. pek, en
+waiter: ünl. garson i. garson, uşak
+wall: f. duvarla çevirmek i. duvar, zar
+warm: f. ısınmak i. ısınma s. ılık, samimi
+water: f. sulamak i. su s. suluboya, su
+way: i. yol, gidişat, yöntem
+we: zm. biz
+weak: s. kuvvetsiz, zayıf
+weather: f. havalandırmak i. hava, hava durumu
+wednesday: [Wednesday] i. çarşamba
+week: i. hafta
+well: f. fışkırmak i. iyi durum, kaynak s. iyi, hoş
+wet: f. ıslatmak i. ıslaklık s. ıslak, nemli
+what: i. hangi, ne, neyi, neleri s. hangi, ne ünl. ne
+whatever: zm. ne, her ne s. hangi
+when: ünl. ne zaman zf. dığı zaman
+whenever: zf. her ne zaman bğ. dığında, diğinde
+where: i. nere zf. nerede, nereye, nereden bğ. dığı yere
+while: zf. iken i. süre bğ. olduğu halde, sırasında
+white: i. beyaz, ak
+who: ünl. kim i. kim, kimi, kime
+whoever: zm. her kim, kim olursa
+whole: i. tüm, toplam s. bütün
+whose: zm. kimin
+why: i. sebep zf. neden, niçin, niye ünl. neden
+wide: s. geniş, kapsamlı zf. iyice
+wife: i. eş, hanım
+will: f. arzulamak i. azim, irade, istek c. aynı zamanda gelecek zaman için yardımcı fiil
+window: i. pencere, cam
+wine: f. şarap sunmak i. şarap, şarap rengi
+winter: f. kışı geçirmek i. kış s. kışlık
+wireless: i. telsiz s. kablosuz, telsiz
+wise: snk. gibi i. alim, yöntem s. bilge
+with: ed. ile, birlikte
+within: i. iç zf. içeri, içinde ed. dahilinde
+without: zf. olmadan ed. dışında bğ. medikçe, meksizin
+woman: s. kadın i. bayan
+wonderful: ünl. harika s. harika, şahane
+word: f. ifade etmek i. kelime
+world: s. dünya i. dünya, alem
+worse: s. daha kötü i. daha da kötüsü zf. daha berbat
+worst: f. yenmek i. en kötüsü s. en kötü
+worth: f. değmek i. değer, bedel s. değerinde
+wrong: f. haksızlık etmek i. haksızlık, hata s. haksız, yanlış
+year: i. sene, yaş
+yellow: f. sararmak i. sarı, sarılık s. sararmış
+yes: art. evet i. olumlu cevap ünl. evet
+yesterday: zf. dün
+yet: zf. hâlâ, henüz bğ. yine de, ama
+young: i. küçük s. genç
+your: zm. senin, sizin
+zero: f. sıfırlamak i. sıfır s. hiç

@@ -1,0 +1,58 @@
+#!/usr/bin/env php
+
+<?php
+
+use AhmetBarut\WordGame\Words;
+use function Termwind\render;
+
+if (file_exists(__DIR__ . '/../../../autoload.php')) {
+    require __DIR__ . '/../../../autoload.php';
+} else {
+    require __DIR__ . '/../vendor/autoload.php';
+}
+
+$words = new Words;
+
+$randomWords = $words->getRandomWord($argv[1]);
+
+$stopLoop = true;
+
+$trueWords = [];
+
+while ($stopLoop) {
+    $randomNumber = rand(0, count($randomWords) - 1);
+    $randomWord = $randomWords[$randomNumber];
+    if (!in_array($randomNumber, $trueWords)) {
+        render("
+        <div class='px-4 py-2 bg-green-500'>
+            <span class='text-red-600'>Kelime : </span>
+            <span class='text-blue-600'> {$randomWord['en']}</span>
+        </div>
+    ");
+        foreach ($randomWords as $key => $word) {
+            $tmpKey = $key + 1;
+            $hasWord = in_array($key, $trueWords) ? 'underline-offset-1 text-green-400' : '';
+            render("
+        <div class=''>
+            <span class='text-red-600'>[{$tmpKey}] Kelime : </span>
+            <span class='text-blue-500 {$hasWord}'> {$word['tr']}</span>
+        </div>
+    ");
+        }
+
+        $answer = readline("\nDoğrusu :");
+
+        if (is_numeric($answer) && ((int)$answer - 1) == $randomNumber) {
+            array_push($trueWords, $randomNumber);
+        }
+    }
+    if (count($trueWords) == count($randomWords)) {
+        $stopLoop = false;
+
+        render("
+        <div class='px-4 py-2 bg-green-500'>
+            <span class='text-red-600'>Tebrikler!!🥳 </span>
+        </div>
+        ");
+    }
+}
