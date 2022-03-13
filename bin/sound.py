@@ -1,11 +1,13 @@
 from os import mkdir
+import os.path as path
 import gtts
 from playsound import playsound
 import sys
 
 word = sys.argv[1]
 
-mkdir('/tmp/words')
+if (path.isdir('/tmp/words')) == False:
+    mkdir('/tmp/words')
 
 storedPath = "/tmp/words/" + word + ".mp3"
 

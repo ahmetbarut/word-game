@@ -63,9 +63,10 @@ class Words
 
     public function getSpeech($word)
     {
-        return "python3.9 sound.py {$word}";
+        $soundFileDir = __DIR__ . '/../bin/sound.py';
+
         if (PHP_OS === 'WINNT') {
-            return "python3.9 sound.py {$word}";
+            "python3.9 " . $soundFileDir . " {$word}";
         }
 
         if (PHP_OS === 'Darwin') {
@@ -73,7 +74,7 @@ class Words
         }
 
         if (PHP_OS === 'Linux') {
-            return "python3.9 sound.py {$word}";
+            "python3.9 " . $soundFileDir . " {$word}";
         }
     }
 }
