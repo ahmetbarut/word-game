@@ -29,13 +29,16 @@ while ($stopLoop) {
             <span class='text-blue-600'> {$randomWord['en']}</span>
         </div>
     ");
+        exec($words->getSpeech($randomWord['en']));
+
         foreach ($randomWords as $key => $word) {
             $tmpKey = $key + 1;
             $hasWord = in_array($key, $trueWords) ? 'underline-offset-1 text-green-400' : '';
+            $trueWord = in_array($key, $trueWords) ? '=> ' . $word['en'] : '';
             render("
         <div class=''>
             <span class='text-red-600'>[{$tmpKey}] Kelime : </span>
-            <span class='text-blue-500 {$hasWord}'> {$word['tr']}</span>
+            <span class='text-blue-500 {$hasWord}'> {$word['tr']} {$trueWord}</span>
         </div>
     ");
         }
@@ -48,7 +51,10 @@ while ($stopLoop) {
     }
     if (count($trueWords) == count($randomWords)) {
         $stopLoop = false;
-
+        
+        foreach (glob('/tmp/words/*') as $file) {
+            @unlink($file);
+        }        
         render("
         <div class='px-4 py-2 bg-green-500'>
             <span class='text-red-600'>Tebrikler!!🥳 </span>
